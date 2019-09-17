@@ -1,0 +1,21 @@
+{
+  "name": "empschedule",
+  "version": "1.0.0",
+  "description": "khanh test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}

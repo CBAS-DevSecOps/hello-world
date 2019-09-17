@@ -1,0 +1,7 @@
+{
+    "connectionLimit" : "100000",
+    "host"            : "auroraapptestdb.cluster-cb5cmv7wqvrq.us-west-2.rds.amazonaws.com",
+    "user"            : "AWSEstonia",
+    "password"        : "MySQL2019",
+    "database"        : "empSchedule"
+}
